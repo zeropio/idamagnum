@@ -1,5 +1,5 @@
 # idamagnum
-idamagnum is a plugin for integrating MagnumDB requests within IDA
+idamagnum is a plugin for integrating MagnumDB requests within IDA 9.1
 
 ## Installation
 
@@ -30,4 +30,5 @@ Once the enum selected, the plugin automatically tag the constant with the corre
 
 ## Credits
 
+[lucasg](https://github.com/lucasg) for creating the plugin.
 [Simon Mourier](https://twitter.com/smourier)  for creating MagnumDB.com and helping me quering it from IDA.
